@@ -1,0 +1,13 @@
+name: wine
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.12
+  - pandas
+  - numpy
+  - xgboost
+  - seaborn
+  - scikit-learn
+  - ipykernel
+prefix: C:\Users\InnisS\AppData\Local\miniconda3\envs\wine
